@@ -1,0 +1,35 @@
+head{
+	text-align: 50%;
+}
+body{
+	background-color: #00FFFF;
+	
+}
+div{
+	color:red;
+	background-color: #0000AA;
+	border: 5px solid #FF08FF;
+	text-align: center;
+}
+
+#All-Pets{
+	color: black;
+}
+.individual-pet{
+	border: 5px solid #FFFF00;
+	font-size: 50px;
+	
+}
+img.one{
+	height: 100px;
+	width: 100px;
+	align-items: center;
+}
+#Store-Name{
+	text-align: center;
+}
+h1{font-size: 50px;}
+h2{font-size: 50px;}
+h3{font-size: 50px;}
+h4{font-size: 50px;}
+h5{font-size: 50px;}
